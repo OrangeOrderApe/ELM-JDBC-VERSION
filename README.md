@@ -1,6 +1,6 @@
 # ELM-JDBC-Version
 # 2023年8月15日
-1. 提交second version
+1. 提交了second version（第二版）
 2. 两个版本的区别：
 * 加入了数据库脚本
 * 修改了文件结构
